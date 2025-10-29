@@ -6,11 +6,7 @@ def mostrar_dado(valor):
         1: [
             "+-------+",
             "|       |",
-<<<<<<< Updated upstream
-            "|   °   |",
-=======
             "|   |   |",
->>>>>>> Stashed changes
             "|       |",
             "+-------+"
         ],
